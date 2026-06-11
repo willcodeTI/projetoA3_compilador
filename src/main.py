@@ -1,5 +1,5 @@
 from classifier import ProgrammingLanguageClassifier
-from Utils import show_examples, show_result
+from utils import show_examples, show_result
 
 
 def main():
